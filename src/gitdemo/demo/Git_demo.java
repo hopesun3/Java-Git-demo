@@ -1,0 +1,11 @@
+package gitdemo.demo;
+
+public class Git_demo {
+
+	public static void main(String[] args) {
+		
+		System.out.println("This is a Git Demo");
+
+	}
+
+}
